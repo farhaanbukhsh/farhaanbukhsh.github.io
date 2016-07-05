@@ -115,16 +115,40 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/gsoc.jpg"
+    date: "May 2016"
+    description: "Gsoc Happened"
+  - image: "/img/timeline/dgplug.jpg"
+    date: "May 2015"
+    description: "Dgplug Happened"
+  - image: "/img/timeline/jnaapti.jpg"
+    date: "Dec 2014"
+    description: "Jnaapti Happened"
+  - image: "/img/timeline/hack.jpg"
+    date: "Sep 2014"
+    description: "Hacked my first"
+  - image: "/img/timeline/exp.jpg"
+    date: "Jan 2013 - Dec 2013"
+    description: "Took time off to explore!"
+  - image: "/img/timeline/ship.jpg"
+    date: "Dec 2012"
+    description: "Made Memories"
+  - image: "/img/timeline/grad.jpg"
+    date: "Dec 2012"
+    description: "Completed Class XII"
+  - image: "/img/timeline/champion.jpg"
+    date: "Dec 2011"
+    description: "Won Championship"
+  - image: "/img/timeline/oath.jpg"
+    date: "August 2011"
+    description: "Took my first leadership oath!"
+  - image: "/img/timeline/baby.jpg"
+    date: "March  1994"
+    description: "Cried my first"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/me.png"
 
 ###########
 # Contact #
